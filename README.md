@@ -3,7 +3,7 @@
 <p>I'm Daniel Ojedokun</p>
 <p>Currently learning Frontend Development with Zuri</p>
 <p>You can reach me 
-<a href="www.intagram.com/danny_mediapro">on instagram</a></p>
+<a href="www.instagram.com/danny_mediapro">on instagram</a></p>
 <p>Looking forward to collaborate you!</p>
 
 <!--

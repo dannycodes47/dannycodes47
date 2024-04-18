@@ -2,9 +2,9 @@
 <p>Nice to meet you!</p>
 <p>I'm Daniel Ojedokun</p>
 <p>Currently learning Frontend Development with Zuri</p>
-<p>You can reach me 
+<p>Connect with me 
 <a href="www.instagram.com/danny_mediapro">on instagram</a></p>
-<p>Looking forward to collaborate you!</p>
+<p>Looking forward to collaborate with you!</p>
 
 <!--
 **dannycodes47/dannycodes47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
